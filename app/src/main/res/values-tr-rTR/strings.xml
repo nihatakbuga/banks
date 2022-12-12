@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bankalar</string>
+    <string name="loading_message">Yükleniyor</string>
+    <string name="check_internet_connection">Lütfen internet bağlantınızı kontrol edin.</string>
+    <string name="no_internet">" İnternet yok"</string>
+    <string name="district">İlçe</string>
+    <string name="ok">Tamam</string>
+    <string name="warning">Uyarı</string>
+    <string name="bank_not_found">Banka Bulunamadı</string>
+    <string name="address">Adres:</string>
+    <string name="bank_type">Banka Tipi</string>
+    <string name="bank_code">Banka Kodu</string>
+    <string name="nearest_atm">En Yakın Atm</string>
+    <string name="status">Durum</string>
+    <string name="on_line">Çevrimdışı</string>
+    <string name="off_line">Site Dışında</string>
+    <string name="location">Konum</string>
+    <string name="address_name">Adres Adı</string>
+    <string name="city">Şehir</string>
+    <string name="bank_details">Banka Detayları</string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Banken</string>
+    <string name="loading_message">Wird geladen</string>
+    <string name="no_internet">Kein Internet</string>
+    <string name="check_internet_connection">Bitte überprüfe deine Internetverbindung.</string>
+    <string name="ok">OK</string>
+    <string name="warning">Warnung</string>
+    <string name="bank_not_found">Bank nicht gefunden</string>
+    <string name="address">Adresse:</string>
+    <string name="bank_type">Banktyp</string>
+    <string name="bank_code">Bankleitzahl</string>
+    <string name="nearest_atm">Nächster Geldautomat</string>
+    <string name="status">Status</string>
+    <string name="on_line">On Offline</string>
+    <string name="off_line">Auf Off-Site</string>
+    <string name="location">Ort</string>
+    <string name="address_name">Adressname</string>
+    <string name="city">Stadt</string>
+    <string name="district">Bezirk</string>
+    <string name="bank_details">Bankdaten</string>
+</resources>
